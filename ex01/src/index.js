@@ -7,5 +7,5 @@ function myRecursion(arr, n) {
     }
 }
 // Only change code above this line
-console.log(myRecursion([1], 0)); // Change this line
+console.log(myRecursion([1, 2, 3, 4, 5, 6], 5)); // Change this line
 module.exports = myRecursion;
