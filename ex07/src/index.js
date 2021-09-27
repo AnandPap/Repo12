@@ -17,7 +17,7 @@ var collection = {
     },
     1245: {
         artist: "Robert Palmer",
-        tracks: []
+        tracks: [ ]
     },
     5439: {
         album: "ABBA Gold"
